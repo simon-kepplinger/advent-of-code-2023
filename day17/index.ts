@@ -1,0 +1,1 @@
+const input = await Bun.file('example').text();
